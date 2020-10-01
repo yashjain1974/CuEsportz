@@ -1,5 +1,6 @@
 <--All about this project-->
 
+@hrk
 1. Creating base of project...
 
 2. creating an app for authentication purpose...
@@ -71,4 +72,4 @@
     1. creating a function in backends.py
     2. (documents are available at accounts/backends.py)
 
-
+13. Solving incorrect padding error by deleting sessios object
